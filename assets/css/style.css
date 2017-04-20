@@ -354,7 +354,10 @@ a.white-read-more:hover {
 .logo img {
     width: 100px;
 }
-
+ .apoie{
+    background-color: #821717;
+    padding: 4px;
+ }
 .mainmenu .navbar-nav li a {
     color: #fff;
     text-transform: uppercase;
