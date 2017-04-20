@@ -1,1 +1,0 @@
-# MinasNoSkate.github.io
