@@ -1385,6 +1385,15 @@ ul.work li.active {
     text-align: center;
 }
 
+@media (max-width: 767px) {
+    .footer-social-link ul li a {
+        font-size: 30px;
+        letter-spacing: 20px;
+    }
+}
+
+
+
 .footer-social-link ul li a:hover {
     color: #000;
 }
