@@ -782,6 +782,8 @@ a.slide-btn:hover {
     z-index: 1;
 }
 
+
+
 .call-to-action-area:after {
     position: absolute;
     background: rgba(0, 0, 0, .7);
@@ -988,7 +990,7 @@ ul.work li.active {
 */
 
 .testimonial-area {
-    background: url("../images/bg/testi-bg.jpg");
+    background: url("../images/bg/testi-bg2.jpg");
     background-size: cover;
     position: relative;
     z-index: 1;
