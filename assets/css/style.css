@@ -121,17 +121,18 @@ fieldset {
 }
 
 .section-title h2:before {
+    margin-left: -25px;
+    content: " ";
+    background-image: url(../images/skate100px.png);
     position: absolute;
-    content: "";
     left: 50%;
     top: 40px;
-    height: 2px;
-    width: 100px;
-    background: #000;
-    margin-left: -50px;
+    height:11px;
+    width: 50px;
+    background-size: 50px 11px; background-repeat: no-repeat;
 }
 
-.section-title h2:after {
+/*.section-title h2:after {
     position: absolute;
     content: "";
     left: 50%;
@@ -140,7 +141,7 @@ fieldset {
     width: 50px;
     background: #000;
     margin-left: -25px;
-}
+}*/
 
 .section-title p {
     font-weight: 300;
@@ -1329,26 +1330,18 @@ ul.work li.active {
 }
 
 .footer-text h6:before {
+    margin-left: -25px;
+    content: " ";
+    background-image: url(../images/skate100px.png);
     position: absolute;
-    content: "";
-    left: 50%;
-    top: 30px;
-    height: 2px;
-    width: 100px;
-    background: #333;
-    margin-left: -50px;
-}
-
-.footer-text h6:after {
-    position: absolute;
-    content: "";
     left: 50%;
     top: 40px;
-    height: 2px;
+    height:11px;
     width: 50px;
-    background: #333;
-    margin-left: -25px;
+    background-size: 50px 11px; background-repeat: no-repeat;
 }
+
+
 
 .footer-social-link {
     margin-bottom: 10px;
