@@ -1337,7 +1337,7 @@ ul.work li.active {
 */
 
 .footer-area {
-    padding: 50px 0 50px 0;
+    padding: 75px 0 80px 0;
 }
 
 .footer-text h6 {
@@ -1361,7 +1361,7 @@ ul.work li.active {
 
 
 .footer-social-link {
-    margin-bottom: 10px;
+    margin: 45px 0 35px 0;
 }
 
 .footer-social-link ul {
@@ -1378,6 +1378,9 @@ ul.work li.active {
 .footer-social-link ul li a {
     display: block;
     color: #333;
+    font-size: 60px;
+    letter-spacing: 55px;
+    text-align: center;
 }
 
 .footer-social-link ul li a:hover {
