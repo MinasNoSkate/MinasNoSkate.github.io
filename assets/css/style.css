@@ -69,7 +69,7 @@ a {
 }
 
 img {
-    width: 50%;
+    width: 100%;
 }
 
 .represent{
@@ -800,7 +800,7 @@ a.slide-btn:hover {
 
 .call-to-action-area:after {
     position: absolute;
-    background: rgba(212, 209, 209, 0.7);
+    background: rgba(228, 225, 225, 0.7);
     left: 0;
     top: 0;
     width: 100%;
