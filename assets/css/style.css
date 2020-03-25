@@ -373,7 +373,7 @@ a.white-read-more:hover {
     width: 100px;
 }
  .apoie{
-    background-color: #FF3333;
+    background-color: rgb(173, 34, 34);
     padding: 4px;
  }
 .mainmenu .navbar-nav li a {
@@ -557,7 +557,7 @@ a.slide-btn:hover {
     .welcome-video-area {
        position: relative;
         height: 100%;
-        background: url("../images/bg/bg.jpg");
+        background: url("../images/bg/_MG_6330.jpg");
         background-size: cover;
         z-index: 1;
 
